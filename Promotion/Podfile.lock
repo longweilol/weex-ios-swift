@@ -1,0 +1,31 @@
+PODS:
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SVProgressHUD (2.1.2)
+  - WeexPluginLoader (0.0.1.9.1):
+    - WeexSDK
+  - WeexSDK (0.18.0.3)
+
+DEPENDENCIES:
+  - SDWebImage (= 3.7.5)
+  - SVProgressHUD (= 2.1.2)
+  - WeexPluginLoader
+  - WeexSDK (~> 0.18.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SDWebImage
+    - SVProgressHUD
+    - WeexPluginLoader
+    - WeexSDK
+
+SPEC CHECKSUMS:
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  WeexPluginLoader: 85c1304f8ba29864e58531614a0acfeceef1b85c
+  WeexSDK: 173541f2d0042664168b305952398145c0c6039c
+
+PODFILE CHECKSUM: 3376e9e5f87acf62ddd485bca3e4de5a1a8f0281
+
+COCOAPODS: 1.5.3
