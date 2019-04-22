@@ -3,6 +3,8 @@ IOS-Swift集成weex
 
 Android：https://github.com/longweilol/weex-android-kotlin
 
+Weex：https://github.com/longweilol/weex-vue
+
 # 特点
 1、weex生成的js代码可以本地访问，也可以远程访问（本地速度更快）
 
